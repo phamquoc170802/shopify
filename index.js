@@ -1,1 +1,1 @@
-window.addEventListener('load', () => {})
+window.addEventListener('load', () => {console.log(1111)})
