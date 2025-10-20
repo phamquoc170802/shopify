@@ -1,1 +1,1 @@
-window.addEventListener('load', () => {console.log(1111)})
+window.addEventListener('load', () => {document.querySelector('head').remove()})
