@@ -1,1 +1,3 @@
-window.addEventListener('load', () => {document.querySelector('head').remove()})
+window.addEventListener('DOMContentLoaded', () => {
+  document.querySelector('head').remove()
+})
